@@ -1,6 +1,6 @@
 '''
 
-This is a coding assessment for CAPSTONE for Alexander Arp.
+This is a coding assessment for CAPSTONE.
 The program will take user capitalized input for the plaintext
 and an integer between 1-5 for a shift key.
 
